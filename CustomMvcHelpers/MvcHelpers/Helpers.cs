@@ -13,7 +13,7 @@ namespace CustomMvcHelpers.MvcHelpers
         /// </summary>
         /// <typeparam name="TModel">Model</typeparam>
         /// <typeparam name="TValue">Value</typeparam>
-        /// <param name="html">Helper method attach to HtmlHelper class</param>
+        /// <param name="html">Helper method attach to HtmlHelper object</param>
         /// <param name="expression">Linq Expression</param>
         /// <param name="htmlAttributes">Html Attributes</param>
         /// <returns></returns>
